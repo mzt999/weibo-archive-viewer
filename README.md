@@ -2,7 +2,9 @@
 
 GitHub repository: [https://github.com/mzt999/weibo-archive-viewer](https://github.com/mzt999/weibo-archive-viewer)
 
-本应用可在tampermonkey等浏览器插件中运行，启用时可在 `weibo.com` 加载用户自主收集的单个用户的微博内容。示例用户: 摩登兄弟刘宇宁。
+本应用可在tampermonkey等浏览器插件中运行，启用时可在 `weibo.com` 加载用户自主收集的单个用户的微博内容。
+
+示例用户: 摩登兄弟刘宇宁。
 
 <img height="200" alt="摩登兄弟刘宇宁" src="https://github.com/user-attachments/assets/b3008dfd-3f71-438f-8bd2-8fa32eb82a45" />
 
