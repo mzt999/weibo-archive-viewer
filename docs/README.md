@@ -1,10 +1,14 @@
 # weibo-archive-viewer 微博存档阅读器
 
+GitHub repository: [https://github.com/mzt999/weibo-archive-viewer](https://github.com/mzt999/weibo-archive-viewer)
+
 本应用可在tampermonkey等浏览器插件中运行，启用时可在 `weibo.com` 加载用户自主收集的单个用户的微博内容。示例用户: 摩登兄弟刘宇宁。
+
+<img height="200" alt="摩登兄弟刘宇宁" src="https://github.com/user-attachments/assets/b3008dfd-3f71-438f-8bd2-8fa32eb82a45" />
 
 加载后页面布局参考了微博本身，但没有采用瀑布流加载，而是需要手动翻页，用户可以跳页或者跳到指定月份。
 
-用户可自行收集微博内容，做成以下格式的csv文件，`postId` 可自行编写，但是不能重复。`picIds` 是图片链接在最后一个斜线右边的部分，也可以说是图片的名称，需包含扩展名。如果一条微博有多个图片，需把图片ID用英文分号隔开。
+用户可自行收集微博内容做成以下格式的csv文件，`postId` 可自行编写，但是不能重复。`picIds` 是图片链接在最后一个斜线右边的部分，需包含扩展名。如果一条微博有多个图片，需把图片ID用英文分号隔开。
 
 | postId | postTime | postContent | picIds |
 |--------|----------|-------------|--------|

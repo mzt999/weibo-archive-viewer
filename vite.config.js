@@ -31,7 +31,7 @@ export default defineConfig({
     //     description: '自主加载微博的脚本',
     //     author: 'why',
     //     match: [
-    //       'https://weibo.com/u/5456865382' // 摩登兄弟刘宇宁的微博
+    //       'https://weibo.com/' // 必须是微博首页
     //     ],
     //     // grant 可以自动检测，通常不需要手动写了
     //   },
